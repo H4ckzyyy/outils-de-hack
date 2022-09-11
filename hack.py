@@ -1,1 +1,1 @@
-print("hacked)
+print("hacked")
